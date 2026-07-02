@@ -17,15 +17,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
-# Frontend Mentor - Social links profile solution
-
-This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+- [Styled Components](https://styled-components.com/) - For styles.
 
 ### Built with
 
